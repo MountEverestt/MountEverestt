@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Poohmy. (Phoowasit Vipaschewin) 
 
-**MountEverestt/MountEverestt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MountEverestt/MountEverestt**
 
 Here are some ideas to get you started:
 - 🏫 CU Computer Engineering 
