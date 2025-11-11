@@ -14,6 +14,7 @@ Here are some ideas to get you started:
    <br> : 3rd place (AUC score) in AI Hackathon Thailand 2024
    <br> : 4th place in AI Benchmark Thailand Machine-Translation 2025
    <br> : 5th place in NocNoc Thailand 2024
+   <br> : 8th place (Accuracy score) in AIAT-SCBX-Financial-Analysis-Agent-Hackathon
    <br> : Super AI Engineer Season 4
    <br> : TOI 17, TOI 18 🥉(25th place) in competitive programming
    <br> : Finalist of Bangmod Hackathon
