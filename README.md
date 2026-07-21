@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 - 🏫 CU Computer Engineering 
-- 💪 I’m currently learning Algorithm, Data Science and AI 
+- 💪 I’m currently learning Algorithm, Data Science and AI Researcher
 - 🏆 Achievement
    <br> : 27th place ICPC Asia Jarkata 2024
    <br> : Member of Chulalongkorn University ICPC Team
